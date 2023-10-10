@@ -1,2 +1,8 @@
-# Desafio-de-Projeto-DIO
- Processo de ETL e criação de um relatório interativo no Power BI
+# Desafio de Criação de um Relatório interativo no Power BI
+*Pontos abordados no Desafio*
+ - Processo de Extração, Transformação e Carregamento (ETL) dos dados
+ - Criação de Relatório interativo
+ - Análise sobre os dados extraídos
+
+
+
